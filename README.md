@@ -2,7 +2,7 @@
 
 Twitter Bootstrap
 http://twitter.github.com/bootstrap/
-
+ 
 Devise
 http://github.com/plataformatec/devise
 
